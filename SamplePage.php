@@ -28,7 +28,7 @@
   <table border="0">
     <tr>
       <td>Name</td>
-      <td>Address</td>
+      <td>Address in one line</td>
     </tr>
     <tr>
       <td>
